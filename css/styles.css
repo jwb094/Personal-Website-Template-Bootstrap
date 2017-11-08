@@ -1,0 +1,63 @@
+/* navBar*/
+
+.nav-Heading {
+    padding-left: 28px;
+}
+
+
+/* Home*/
+
+.main {
+    background-color: #f8f8f8e5;
+    height: 550px;
+    margin-top: 56px;
+}
+
+.smi {
+    padding: 10px;
+}
+
+.home {
+    padding: 100px;
+}
+
+
+/* about-Me*/
+
+.about-Me {
+    height: 600px;
+}
+
+.about-Me-Paragraph {
+    margin: 100px 40px 40px 40px;
+}
+
+#interest-And-Hobbies {
+    text-align: center;
+}
+
+.i-a-h {
+    padding: 10px;
+}
+
+
+/*PORTFOLIO*/
+
+.title {
+    letter-spacing: 10px;
+}
+
+
+/*CONTACT ME*/
+
+.info-1 {
+    padding-left: 100px;
+}
+
+.info-2 {
+    padding-left: 150px;
+}
+
+.info-3 {
+    padding-left: 200px;
+}
